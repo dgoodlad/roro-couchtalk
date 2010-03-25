@@ -1,9 +1,8 @@
-!SLIDE center
-# Couch Party! #
-## Self-hosted Apps on CouchDB ##
+!SLIDE
+# Couch Party!
+## Self-hosted Apps on CouchDB
+### RORO - March 25, 2010
 
-!SLIDE bullets incremental
-# David Goodlad #
+!SLIDE
+# David Goodlad
 
-* Ruby/Rails hacker
-* CouchDB side project

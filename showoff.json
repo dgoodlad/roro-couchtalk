@@ -1,3 +1,9 @@
 [
-  { "section" : "intro" }
+  { "section" : "intro" },
+  { "section" : "basics" },
+  { "section" : "databasing" },
+  { "section" : "urls" },
+  { "section" : "client" },
+  { "section" : "examples" },
+  { "section" : "fin" }
 ]
