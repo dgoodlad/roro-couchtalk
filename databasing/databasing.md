@@ -39,4 +39,4 @@
 * Outputs all the changes to a given db
 * One-off, long-polling or continuous feed
 * Optionally filtered
-
+* Comet, anyone?
